@@ -123,6 +123,5 @@
                 </executions>
             </plugin>
         </plugins>
-        <finalName>twinklesot</finalName>
     </build>
 </project>
